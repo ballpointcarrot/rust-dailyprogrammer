@@ -1,0 +1,13 @@
+[package]
+
+name = "205"
+version = "0.0.1"
+authors = ["Christopher Kruse <kruse.christopher@gmail.com>"]
+
+[lib]
+name = "datespan"
+path = "src/datespan.rs"
+test = true
+
+[dependencies]
+time = "*"
