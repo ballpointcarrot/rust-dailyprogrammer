@@ -1,0 +1,8 @@
+[package]
+
+name = "201"
+version = "0.0.1"
+authors = ["Christopher Kruse <ckruse@ballpointcarrot.net>"]
+
+[dependencies]
+chrono = "*"
